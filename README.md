@@ -6,5 +6,19 @@
 
 2.AMAZON Java Command Line Application.
 
+Admin Id:Admin
+password:1234
+
+User :You can Add Custom users.
 
 3.ONLINE RAILWAY TICKET BOOKING Java Command Line Application.
+
+Admin Id:Admin
+password:1234
+
+User: You Can Add Custom User
+
+4.LIBRARY MANAGEMENT SYSTEM Java Command Line Application.
+ 
+Admin Id:Admin
+Password:1234
